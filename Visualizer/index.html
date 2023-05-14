@@ -15,7 +15,7 @@
             .graphData(data)
             .nodeLabel('id')
             .nodeAutoColorBy('group')
-            .center(node => node.id === 'Camilo Ortiz' ? 0.5 : 1)
+            .center(node => node.id === 'Camilo Ortiz' ? 0.5 : node.id === 'Cistelsa' ? -1.5 : 1)
             .forceManyBody(-100)
             .forceLink().distance(100)
             .onNodeDragEnd(node => {
