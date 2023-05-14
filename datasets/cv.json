@@ -1,0 +1,199 @@
+{
+  "nodes": [
+    {
+      "id": "contact",
+      "label": "Contactar"
+    },
+    {
+      "id": "linkedin",
+      "label": "www.linkedin.com/in/camilo-ortiz-cistelsa",
+      "type": "link"
+    },
+    {
+      "id": "company",
+      "label": "cistelsa.com",
+      "type": "link"
+    },
+    {
+      "id": "python",
+      "label": "Python",
+      "type": "skill"
+    },
+    {
+      "id": "wordpress",
+      "label": "WordPress",
+      "type": "skill"
+    },
+    {
+      "id": "php",
+      "label": "PHP",
+      "type": "skill"
+    },
+    {
+      "id": "lean_startup",
+      "label": "Lean Startup: Método eficaz para convertir una idea de negocio en empresa",
+      "type": "certification"
+    },
+    {
+      "id": "introduccion_metaverso",
+      "label": "Introducción al Metaverso: La nueva revolución",
+      "type": "certification"
+    },
+    {
+      "id": "logica_programacion_2",
+      "label": "Lógica de programación parte 2: Conceptos primordiales",
+      "type": "certification"
+    },
+    {
+      "id": "aws_educate",
+      "label": "AWS Educate Introduction to Cloud101",
+      "type": "certification"
+    },
+    {
+      "id": "logica_programacion_1",
+      "label": "Lógica de programación parte 1: Primeros pasos",
+      "type": "certification"
+    },
+    {
+      "id": "camilo_ortiz",
+      "label": "Camilo Ortiz",
+      "type": "person"
+    },
+    {
+      "id": "desarrollo_web",
+      "label": "Desarrollo y Diseño Web",
+      "type": "role"
+    },
+    {
+      "id": "bogota",
+      "label": "Bogotá, Distrito Capital, Colombia",
+      "type": "location"
+    },
+    {
+      "id": "cistelsa",
+      "label": "Cistelsa",
+      "type": "company"
+    },
+    {
+      "id": "gerente_operaciones",
+      "label": "Gerente de operaciones",
+      "type": "position"
+    },
+    {
+      "id": "colvatel",
+      "label": "COLVATEL S.A. E.S.P.",
+      "type": "company"
+    },
+    {
+      "id": "tecnico_adsr",
+      "label": "Tecnico Corporativo ADSL RDSI",
+      "type": "position"
+    },
+    {
+      "id": "henry",
+      "label": "Henry Bootcamp - Carrera Data Science",
+      "type": "education"
+    },
+    {
+      "id": "platzi",
+      "label": "Platzi Escuela de Blockchain - Desarrollo y Programación para Blockchain y Criptomonedas",
+      "type": "education"
+    },
+    {
+      "id": "sena",
+      "label": "Servicio Nacional de Aprendizaje (SENA) TECNÓLOGO EN DISEÑO, IMPLEMENTACIÓN Y MANTENIMIENTO DE SISTEMAS DE TELECOMUNICACIONES",
+"type": "education"
+},
+{
+"id": "colegio_superior",
+"label": "Colegio Superior de Telecomunicaciones Tecnólogo Electrónica y Telecomunicaciones",
+"type": "education"
+}
+],
+"links": [
+{
+"source": "contact",
+"target": "linkedin"
+},
+{
+"source": "contact",
+"target": "company"
+},
+{
+"source": "contact",
+"target": "python"
+},
+{
+"source": "contact",
+"target": "wordpress"
+},
+{
+"source": "contact",
+"target": "php"
+},
+{
+"source": "contact",
+"target": "lean_startup"
+},
+{
+"source": "contact",
+"target": "introduccion_metaverso"
+},
+{
+"source": "contact",
+"target": "logica_programacion_2"
+},
+{
+"source": "contact",
+"target": "aws_educate"
+},
+{
+"source": "contact",
+"target": "logica_programacion_1"
+},
+{
+"source": "contact",
+"target": "camilo_ortiz"
+},
+{
+"source": "contact",
+"target": "desarrollo_web"
+},
+{
+"source": "contact",
+"target": "bogota"
+},
+{
+"source": "contact",
+"target": "cistelsa"
+},
+{
+"source": "contact",
+"target": "gerente_operaciones"
+},
+{
+"source": "contact",
+"target": "colvatel"
+},
+{
+"source": "contact",
+"target": "tecnico_adsr"
+},
+{
+"source": "contact",
+"target": "henry"
+},
+{
+"source": "contact",
+"target": "platzi"
+},
+{
+"source": "contact",
+"target": "sena"
+},
+{
+"source": "contact",
+"target": "colegio_superior"
+}
+]
+}
