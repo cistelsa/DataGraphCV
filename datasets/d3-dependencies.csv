@@ -461,4 +461,4 @@ size,path
 137,d3/d3-zoom/event.js
 202,d3/d3-zoom/noevent.js
 1336,d3/d3-zoom/transform.js
-12133,d3/d3-zoom/d3-voronoi/zoom.js
+12133,d3/d3-zoom/zoom.js
